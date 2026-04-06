@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "skillName":"HTML",
+        "level":80
+    },
+    {
+        "id":1,
+        "skillName":"CSS",
+        "level":80
+    },
+    {
+        "id":1,
+        "skillName":"JavaScript",
+        "level":80
+    }
+   
+]
